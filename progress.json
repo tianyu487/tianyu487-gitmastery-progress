@@ -604,5 +604,14 @@
       "Answer for Which numbers are present in stream-2 but not in stream-1? is not right."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1791130131.014725,
+    "completed_at": 1791130134.017318,
+    "comments": [
+      "EOF when reading a line"
+    ],
+    "status": "Error"
   }
 ]
